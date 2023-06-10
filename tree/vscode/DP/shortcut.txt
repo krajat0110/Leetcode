@@ -1,0 +1,3 @@
+alt + shift + backspace = full line 
+ctrl + backspcae = full word 
+hold ctrl + <- / -> = move word by word 
